@@ -1,9 +1,14 @@
+## Hi, Monster Brain here 👋! 
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=monsterbrain&label=Profile%20views&color=0e75b6&style=flat"
                      alt="monsterbrain"/></p>
 <p align="left"><a href="https://twitter.com/faisal_rasak" target="blank"><img
         src="https://img.shields.io/twitter/follow/faisal_rasak?logo=twitter&style=for-the-badge" alt="monsterbrain"/></a>
 </p>
-[![GitHub: @monsterbrain](https://img.shields.io/github/followersmonsterbrain?label=follow&style=social)](https://github.com/monsterbrain)
+
+I am a Native Android / Unity3D / Game developer from 🏠 Kerala, India. I like to create things that benefits for people. 
+
+[![GitHub: @monsterbrain](https://img.shields.io/github/followers/monsterbrain?label=follow&style=social)](https://github.com/monsterbrain)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!--Kotlin-->
@@ -24,7 +29,7 @@
 ## ⚡ Stats
 ![Monster Brain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsterbrain&hide=["issues"]&show_icons=true&theme=ayu-mirage)
 
-I like to create things that are useful for people (doesn't always end that way). 
+
 
 - Codes often, mostly unfinished side projects.
 - Android apps and Games / day job / side projects [Playstore Link](https://play.google.com/store/apps/dev?id=8865520898596976006)
