@@ -20,6 +20,9 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monsterbrain&" alt="monsterbrain"/></p>
 
+## ⚡ Stats
+![Monster Brain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsterbrain&hide=["issues"]&show_icons=true&theme=ayu-mirage)
+
 I like to create things that are useful for people (doesn't always end that way). 
 
 - Codes often, mostly unfinished side projects.
