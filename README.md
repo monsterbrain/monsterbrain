@@ -3,6 +3,7 @@
 <p align="left"><a href="https://twitter.com/faisal_rasak" target="blank"><img
         src="https://img.shields.io/twitter/follow/faisal_rasak?logo=twitter&style=for-the-badge" alt="monsterbrain"/></a>
 </p>
+[![GitHub: @monsterbrain](https://img.shields.io/github/followersmonsterbrain?label=follow&style=social)](https://github.com/monsterbrain)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!--Kotlin-->
