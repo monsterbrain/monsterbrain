@@ -6,7 +6,7 @@
         src="https://img.shields.io/twitter/follow/faisal_rasak?logo=twitter&style=for-the-badge" alt="monsterbrain"/></a>
 </p>
 
-I am a Native Android / Unity3D / Game developer from 🏠 Kerala, India. I like to create things that benefits for people. 
+I am a Native Android / Unity3D / Game developer from 🏠 Kerala, India. I like to create things that benefits people. 
 
 [![GitHub: @monsterbrain](https://img.shields.io/github/followers/monsterbrain?label=follow&style=social)](https://github.com/monsterbrain)
 <h3 align="left">Languages and Tools:</h3>
